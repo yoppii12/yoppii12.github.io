@@ -41,6 +41,11 @@ section h2 {
     letter-spacing: 0.25em;
 }
 
+.introduce img {
+    max-width: 60px;
+    border: 2px solid #66f;
+}
+
 footer {
     padding: 30px 0;
     font-size: 80%;
